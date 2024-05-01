@@ -1,12 +1,7 @@
 import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
-/**
- * This Files class represents . . .
- *
- * @author  (your name)
- * @version (todays date)
- */
+
 public class Files
 {
     public ArrayList<String> filing(String directory)
